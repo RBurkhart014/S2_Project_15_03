@@ -7,8 +7,8 @@
 
    Filename: mas_register.js
 
-   Author:  
-   Date:    
+   Author: Ryan Burkhart 
+   Date: 4/23/19   
    
    Function List
    =============
@@ -28,3 +28,6 @@
 
 */
 
+window.addEventListener("load", function () {
+      calcCart();
+})
