@@ -30,7 +30,7 @@
 
 window.addEventListener("load", function () {
       calcCart();
-      document.getElementById("reSubmit").onclick = sessionText;
+      document.getElementById("regSubmit").onclick = sessionTest;
       document.getElementById("fnBox").onblur = calcCart;
       document.getElementById("lnBox").onblur = calcCart;
       document.getElementById("groupBox").onblur = calcCart;
